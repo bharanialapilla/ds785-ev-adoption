@@ -107,5 +107,6 @@ python3 run_pipeline.py
 
 AI Tool Disclosure
 
-AI tools were used for minor formatting assistance in read me and comments.Tried organizing with the help of AI and which never worked it Manually pushed code succuessfully.
+AI tools were used for minor formatting assistance .Organizing and  comments.I completed code long back in notebook and later see the comments that code check in cannot be ipynb.So used AI to organize folder and later did all myself .Ai organized it but troubleshooting was done by myself.
+Tried organizing Folder with the help of AI and which never worked it Manually pushed code succuessfully.
 All code logic, data preparation steps, and validation checks were reviewed, verified, and tested manually to ensure correctness and alignment with the project methodology.
